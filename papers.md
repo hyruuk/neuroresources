@@ -6,5 +6,5 @@ If you can't access the paper, try adding sci-hub.st/ before the paper's URL, or
 
 
 ## Modeling :
-- Guest et al.,
-- Van Rooij et al.,
+- [Guest, O., & Martin, A. E. (2020). How computational modeling can force theory building in psychological science.](https://psyarxiv.com/rybh9/download?format=pdf)
+- [van Rooij, I., & Blokpoel, M. (2020). Formalizing Verbal Theories. Social Psychology.](https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000428)
