@@ -25,15 +25,19 @@ Maybe you heard about "decomposing" signals into sums of sines and cosines. But 
 - FR : [El Jj - Deux (deux ?) minutes pour l'éléphant de Fermi & Neumann](https://youtu.be/uazPP0ny3XQ)
 - EN : [3Blue1Brown - But what is a Fourier series? From heat flow to circle drawings | DE4](https://youtu.be/r6sGWTCMz2k)
 
-### Linear algebra
+### Algebra
 - EN : [3Blue1Brown - Linear Algebra series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- EN : [3Blue1Brown - Eigenvectors and Eigenvalues](https://youtu.be/PFDu9oVAE-g)
+- EN : [Professor Dave Explains - Finding Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=TQvxWaQnrqI)
 
 ### Machine learning
 - FR : [Science4all - L'intelligence artificielle et le machine learning](https://www.youtube.com/playlist?list=PLtzmb84AoqRTl0m1b82gVLcGU38miqdrC)
 - EN : [Two Minute Papers (channel)](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - EN : [Crash Course - Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
+- EN : [StatQuest - Kmeans clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)
 
 ## Neuro-talks and conferences
 - EN : [Neuromatch conference](https://www.youtube.com/channel/UCcBKrxkfNv04R9PXLovjf5w)
 - EN : [Neuromatch academy](https://www.youtube.com/channel/UC4LoD4yNBuLKQwDOV6t-KPw/videos)
 - EN : [Courtois Neuromod](https://www.youtube.com/channel/UCjeuWWEmZt5Zbx0LBiPbDJw)
+- EN : [Organisation for Human Brain Mapping]()
