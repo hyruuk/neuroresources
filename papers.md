@@ -11,6 +11,7 @@ If you can't access the paper, try adding sci-hub.st/ before the paper's URL, or
 ## Modeling :
 - [Guest, O., & Martin, A. E. (2020). How computational modeling can force theory building in psychological science.](https://psyarxiv.com/rybh9/download?format=pdf)
 - [van Rooij, I., & Blokpoel, M. (2020). Formalizing Verbal Theories. Social Psychology.](https://econtent.hogrefe.com/doi/full/10.1027/1864-9335/a000428)
+- [Rich, P., de Haan, R., Wareham, T., & van Rooij, I. (2021). How hard is cognitive science?. In Proceedings of the annual meeting of the cognitive science society (Vol. 43, No. 43).](https://escholarship.org/uc/item/8cr8x1c4)
 
 ## fMRI analysis :
 - [Poline, J. B., & Brett, M. (2012). The general linear model and fMRI: does love last forever?. Neuroimage, 62(2), 871-880.](https://doi.org/10.1016/j.neuroimage.2012.01.133)
