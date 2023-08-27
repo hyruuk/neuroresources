@@ -5,6 +5,21 @@ This is a repo I created during my PhD to store resources that I found useful in
 
 ### In genereal :
 - How to ask questions
+Follow this template :
+­­´´´
+### Description of the problem
+
+### Steps to reproduce
+
+### Link to data
+
+### Expected results
+
+### Actual results
+
+### Additional information
+´´´
+
 - Document EVERYTHING (or at least try)
 
 ### About computers : 
