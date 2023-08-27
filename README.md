@@ -8,6 +8,8 @@ This is a repo I created during my PhD to store resources that I found useful in
 - Document EVERYTHING (or at least try)
 
 ### About computers : 
+- Use Git
+- No seriously, **use Git**, even poorly
 - Automate repetitive stuff, even when it sounds hard
 - Test code locally, debugging via SSH is a pain
 - Test code on subsets of the data : what works for 1000 epochs should work for 10 epochs (or at least it shouldn't fail)
